@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PdfRead", "PdfRead.csproj", "{8460A9A4-BF0E-48AD-AF6F-6F29F43D24D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PdfText7Read", "..\PdfText7Read\PdfText7Read.csproj", "{55E59665-63CF-4E71-81A4-1164382799A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8460A9A4-BF0E-48AD-AF6F-6F29F43D24D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8460A9A4-BF0E-48AD-AF6F-6F29F43D24D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8460A9A4-BF0E-48AD-AF6F-6F29F43D24D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8460A9A4-BF0E-48AD-AF6F-6F29F43D24D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55E59665-63CF-4E71-81A4-1164382799A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55E59665-63CF-4E71-81A4-1164382799A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55E59665-63CF-4E71-81A4-1164382799A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55E59665-63CF-4E71-81A4-1164382799A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E5280F6-A0E9-4B7E-A7F1-22DB4998BD9F}
+	EndGlobalSection
+EndGlobal
